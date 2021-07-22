@@ -1,7 +1,7 @@
 
 <strong>Hello there!</strong>
 - I'm Thiago from :brazil:
-- Mechanical Engineer migrating to :computer:
+- Mechanical Engineer learning to :computer:
 ___
 
 <strong>Skills:</strong>
