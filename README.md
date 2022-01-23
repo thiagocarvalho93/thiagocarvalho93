@@ -4,7 +4,7 @@
 - Mechanical Engineer learning Data Analytics :bar_chart:
 ___
 
-<strong>Skills:</strong>
+<strong>Learning:</strong>
  <br>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40">
  
