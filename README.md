@@ -1,7 +1,6 @@
 
 <strong>Hello there!</strong>
 - I'm Thiago from :brazil:
-- Mechanical Engineer learning Data Analytics :bar_chart:
 ___
 
 <strong>Learning:</strong>
