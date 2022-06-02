@@ -13,4 +13,3 @@ ___
 <br>
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvalho93&hide=jupyter%20notebook&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagocarvalho93)](https://github.com/anuraghazra/github-readme-stats)
