@@ -13,4 +13,5 @@ ___
   <br>
 <a href="https://www.linkedin.com/in/thiago-paes-de-carvalho-6567b750/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"></a>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvalho93&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+___
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvalho93&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
