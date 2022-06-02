@@ -1,8 +1,6 @@
 <strong>Hello there!</strong>
 - I'm Thiago from :brazil:
 <br>
-![](https://komarev.com/ghpvc/?username=thiagocarvalho93&color=blue)
-<br>
 ___
 
 <strong>Learning:</strong>
