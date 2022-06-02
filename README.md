@@ -1,6 +1,7 @@
-![](https://komarev.com/ghpvc/?username=thiagocarvalho93&color=blue)
 <strong>Hello there!</strong>
 - I'm Thiago from :brazil:
+<br>
+![](https://komarev.com/ghpvc/?username=thiagocarvalho93&color=blue)
 ___
 
 <strong>Learning:</strong>
@@ -15,3 +16,4 @@ ___
 <br>
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvalho93&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
