@@ -1,5 +1,5 @@
 <strong>Hello there!</strong>
-- I'm Thiago from :brazil:
+- I'm Thiago
 ___
 <strong>Learning:</strong>
  <br>
